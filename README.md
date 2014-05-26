@@ -9,7 +9,8 @@ What is activetick?
 ------------------------------------------------------------------------------
 
 **activetick** is a Python module used for requesting historical data from the 
-ActiveTick Feed HTTP Server. 
+ActiveTick Feed HTTP Server. It currently contains functions that allow the 
+user to request the following data: 
 
   * historical bars (from 1 minute to daily and weekly bars)
   * historical trades (millisecond resolution)
