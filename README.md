@@ -21,8 +21,10 @@ Streaming data is not implemented yet. You need a valid subscription to one
 of the Market Data API solutions offered by ActiveTick LLC in order to be 
 able to pull data from the server. 
 
+A demo is available [here](https://gist.github.com/alexispetit/01fbe2741abb5b017290). 
 
-What Else? 
+
+What else? 
 ------------------------------------------------------------------------------
 
 **activetick** is not a product of ActiveTick LLC, nor is this project 
