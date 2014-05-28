@@ -21,7 +21,7 @@ Streaming data is not implemented yet. You need a valid subscription to one
 of the Market Data API solutions offered by ActiveTick LLC in order to be 
 able to pull data from the server. 
 
-A demo is available [here](https://gist.github.com/alexispetit/01fbe2741abb5b017290). 
+A demo is available [here](http://nbviewer.ipython.org/gist/alexispetit/01fbe2741abb5b017290). 
 
 
 What else? 
